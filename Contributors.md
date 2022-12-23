@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Debasish Panda](https://github.com/debasish17) 
 - [Rajeev Hansda](https://github.com/rajeevrhansda) 
 - [Lake Stevens] (https://github.com/LakeChicken29)
 - [Shivam Pande](https://github.com/ShivamPande18)
